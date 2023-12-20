@@ -1,4 +1,4 @@
-                                                          Crop Analysis - Machine Learning
+                                                   Crop Analysis - Machine Learning
 **Overview**
 
 The Crop Machine Learning project focuses on predicting the suitable crop for cultivation based on various soil and environmental factors. The input features include the nitrogen (N), phosphorous (P), and potassium (K) content ratios in the soil, along with temperature, humidity, pH value, and rainfall. The goal is to determine the optimal crop for cultivation by employing machine learning models.
@@ -17,7 +17,7 @@ The Crop Machine Learning project focuses on predicting the suitable crop for cu
 
 **Rainfall**- (mm)
 
-                                                                  Conclusion
+                                                       Conclusion
 
 The implemented models, including **Naive Bayes** and **RandomForest**, exhibit good accuracy in predicting crop recommendations. Users can input specific soil and environmental parameters, such as nitrogen, potassium, phosphorous, temperature, humidity, pH, and rainfall, and the system predicts the most suitable crop for cultivation.
 
